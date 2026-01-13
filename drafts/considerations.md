@@ -1,50 +1,61 @@
 # Considerations from Other Sample Agreements
 
-Below are topics covered in the Osborne Properties and Tayloe House sample leases that are not yet addressed in `drafts/agreement.md`, grouped by source.
+A) Topics handled in `drafts/agreement.md` AND all three sample agreements
+- Parties and premises identification
+- Lease term (start/end, fixed term)
+- Rent amount, due date, and payment location
+- Security deposit
+- Utilities responsibility
+- Use and occupancy (private residence)
+- Maintenance and repair responsibilities
+- Pets policy
+- Default and remedies
+- Governing law
+- Entire agreement
+- Signatures and execution
 
-## Addressed in both Osborne and Tayloe House
-- Lease renewal and termination notices, including month-to-month increases.
-- Rent timing, prorations, payment methods, late/returned check fees, and application of funds.
-- Security deposit rules (no last-month offset, refund timing, forwarding address, deductions).
-- Occupancy limits, guest limits, and named occupants.
-- HOA/restrictive covenant compliance and reimbursement of related fines.
-- Use restrictions (illegal activity, nuisance, business use, smoking, waterbeds, hazardous acts).
-- Utility obligations (tenant-paid, keep services on, interruption disclaimers).
-- Condition/maintenance standards and repair notice procedures (Texas Property Code remedies).
-- Parking and vehicle limits, towing rules, and storage limits.
-- Landlord access rules (notice, emergency entry, keybox, trip charges).
-- Delivery of possession and delay of occupancy remedies.
-- Liability/insurance expectations and loss of personal property.
-- Surrender, abandoned property handling, and holdover terms.
-- Landlord's lien rights.
-- Assignment/subletting requirements.
-- Early termination rights for military or family violence.
-- Attorney's fees, collection costs, and mitigation of damages.
-- Notices, severability, no waiver, and joint and several liability.
-- Addenda and disclosures (lead-based paint, mold, inventory/condition forms, rules).
-- Information notices (credit reporting, tenant death procedures, sex offender database).
+B) Topics handled in `drafts/agreement.md` only
+- None noted
 
-## Addressed only in Osborne
-- Termination in event of sale.
-- Indemnification clause.
-- No roof or attic access.
-- Lockout charges and make-ready cleaning charged to the deposit.
-- HVAC filter maintenance penalties and leak reporting.
-- Utilities disconnect penalties (lease violation for turnoff).
-- Additional tenant responsibilities incorporated by reference.
-- Notice that a signed copy of the lease was received.
-- Fines for use violations (per-day fine).
-- Prohibition on waterbeds and liquid-filled furniture.
-- Smoking prohibition on the property (not just inside).
-- Damage rules for repairs beyond normal wear and tear with specific cleanup items.
+C) Topics handled in `Residential_Lease_Agreement for Max & Becca.docx` only
+- Room reservation for specific individuals
+- Alterations/improvements require landlord consent
+- Yard maintenance responsibilities
 
-## Addressed only in Tayloe House
-- Non-real-property items and legal description of the property.
-- Delay of occupancy rules with specific timing (occupy within 5 days).
-- Interest and statutory notices tied to security deposits.
-- Application of funds clause with a broader fee list (brokerage fees, periodic utilities).
-- Utility connection fees and requirement to keep certain utilities on at all times.
-- Phone number change notice requirement.
-- Common area fee disclaimer.
-- Access rights include posting For Sale/For Lease signs.
-- Landlord broker disclosure and negotiability notice.
+D) Topics handled in `2019-05 Osborne Properties Residential Lease Template.docx` only
+- Termination in event of sale
+- Indemnification clause
+- Use violations fines
+- Smoking prohibited anywhere on the premises
+- Waterbeds or liquid-filled furniture prohibited
+- No roof or attic access
+- Lockout charges
+- HVAC filter neglect charges
+- Leak reporting requirement
+- Utilities disconnection is a lease violation
+- Make-ready cleaning charged to the security deposit
+- Additional tenant responsibilities incorporated by reference
+- Receipt of signed copy of the lease
+- Notice to vacate must be signed by all tenants; notices to one bind all tenants
+- Alterations/improvements require landlord consent
+- Subordination to liens and encumbrances
+- Casualty loss or condemnation terms
+- Attorney's fees and related legal costs
+
+E) Topics handled in the "sulawesi house" agreement only (`Tayloe House lease_agreement 4-1-21 for 3 Months.pdf`)
+- Legal description and non-real-property items
+- Delay of occupancy and required move-in timing
+- Security deposit interest and statutory notices
+- Phone number change notice requirement
+- Common area fee disclaimer
+- For sale/for lease sign rights
+- Broker disclosure and negotiability notice
+- Smoke detector obligations
+- Security devices and rekeying procedures
+- Move-in condition and move-out procedures
+- Pool/spa maintenance provisions
+- Yard maintenance responsibilities
+- Representations and misrepresentation default
+- Subordination to liens and encumbrances
+- Casualty loss or condemnation terms
+- Attorney's fees and related legal costs
