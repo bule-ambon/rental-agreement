@@ -7,8 +7,8 @@ A) Topics handled in `drafts/agreement.md`
 - Rent, prorations, payment timing, and payment location
 - Late charges and returned check fees
 - Application of funds
-- Security deposit rules, refund timing, and statutory notice about last month's rent
-- Utilities responsibility and required services kept on
+- Security deposit rules, interest handling, refund timing, and statutory notice about last month's rent
+- Utilities responsibility, required services kept on, and service availability notice
 - Use and occupancy limits, guests, and HOA compliance
 - Use restrictions (illegal activity, nuisance, business use, smoking, waterbeds/pools)
 - Phone number change notice requirement
@@ -17,17 +17,19 @@ A) Topics handled in `drafts/agreement.md`
 - Maintenance and condition standards
 - Yard maintenance responsibilities
 - Pool/spa maintenance
-- Repairs, notice procedures, and tenant-caused damage
+- Move-in condition form
+- Repairs, notice procedures, tenant-caused damage, and advance payment for tenant repairs
 - Parking and vehicle limits
 - Security devices and rekeying procedures
-- Smoke detector obligations
-- Landlord access, for sale/for lease signs, keybox authorization, and trip charges
+- Smoke detector obligations, requests, and battery/light bulb responsibilities
+- Landlord access, for sale/for lease signs, keybox authorization/withdrawal, and trip charges
 - Delivery of possession, move-in timing, and delay remedies
 - Loss, liability, and renter's insurance recommendation
 - Casualty loss or condemnation terms
 - Default, remedies, and mitigation
-- Surrender, abandoned property, and holdover terms
-- Landlord's lien
+- Surrender, abandoned property handling, and holdover terms
+- Normal wear and tear definition
+- Landlord's lien and seizure rights
 - Assignment and subletting
 - Early termination rights (military or family violence)
 - Attorney's fees
@@ -37,7 +39,8 @@ A) Topics handled in `drafts/agreement.md`
 - Entire agreement, severability, and no waiver
 - Joint and several liability
 - Addenda and disclosures
-- Information notices (credit reporting, tenant death, sex offender database)
+- Information notices (credit reporting, tenant death, sex offender database, broker lien disclaimer)
+- Broker disclosure and negotiability notice
 - Governing law
 - Signatures and execution
 
@@ -65,21 +68,12 @@ C) Topics handled in `docs/osborne_properties_lease_template.md` only
 - Notice to vacate must be signed by all tenants; notice to one binds all
 
 D) Topics handled in the "sulawesi house" agreement only (`docs/tayloe_house_lease.md`)
-- Security deposit interest
-- Detailed security deposit deductions list
-- Access to seize nonexempt property when in default
-- Move-in condition form
-- Personal property removal procedures after move-out
-- Damage definitions (normal wear and tear)
-- Failure to maintain remedies for yard or pool/spa
-- Advance payments
-- Keybox authorization withdrawal
-- Keybox liability limits
-- Tenant responsibilities for light bulbs and batteries
-- Security device change requests in writing
-- Tenant responsibilities for rekey costs
-- Smoke detector placement and inspection requests
-- Landlord's broker disclosure and negotiability notice
-- Tenant responsibility to verify services availability
-- Credit reporting notice repetition and broker lien disclaimer
+- Keybox liability limits (beyond negligence standard)
+- Smoke detector placement requirements
+- Security device rekey timing requirements
+- Detailed move-out personal property procedures (storage/sale notices)
+- Tenant responsibility for pest control/extermination
+- Landlord remedies for failure to maintain yard/pool beyond reimbursement
+- Advance payments section structure for reimbursements
+- Addenda list details (mold, application, guaranty)
 - Copyright/association disclosure
