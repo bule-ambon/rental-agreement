@@ -19,12 +19,14 @@ A) Topics handled in `drafts/agreement.md`
 - Pool/spa maintenance
 - Move-in condition form
 - Repairs, notice procedures, tenant-caused damage, and advance payment for tenant repairs
+- Alterations and improvements
 - Parking and vehicle limits
 - Security devices and rekeying procedures
 - Smoke detector obligations, requests, and battery/light bulb responsibilities
 - Landlord access, for sale/for lease signs, keybox authorization/withdrawal, and trip charges
 - Delivery of possession, move-in timing, and delay remedies
 - Loss, liability, and renter's insurance recommendation
+- Indemnification
 - Casualty loss or condemnation terms
 - Default, remedies, and mitigation
 - Surrender, abandoned property handling, and holdover terms
@@ -32,13 +34,17 @@ A) Topics handled in `drafts/agreement.md`
 - Landlord's lien and seizure rights
 - Assignment and subletting
 - Early termination rights (military or family violence)
+- Termination in event of sale
 - Attorney's fees
 - Representations and misrepresentation default
 - Notices and communication methods
+- Notice to vacate signed by all tenants
 - Subordination to liens, encumbrances, and restrictive covenants
 - Entire agreement, severability, and no waiver
 - Joint and several liability
 - Addenda and disclosures
+- Additional terms (leak reporting, utilities disconnection violation, roof/attic prohibition, lockout charges, HVAC filter neglect charges)
+- Signed copy acknowledgment
 - Information notices (credit reporting, tenant death, sex offender database, broker lien disclaimer)
 - Broker disclosure and negotiability notice
 - Governing law
@@ -46,34 +52,20 @@ A) Topics handled in `drafts/agreement.md`
 
 B) Topics handled in `docs/residential_lease_agreement_max_becca.md` only
 - Room reservation for specific individuals
-- Alterations/improvements require landlord consent
 
 C) Topics handled in `docs/osborne_properties_lease_template.md` only
-- Termination in event of sale
-- Indemnification clause
-- Alterations/improvements require landlord consent
 - Entry when premises appear abandoned
-- Prohibition on tenant-created liens or encumbrances
 - Security deposit forfeiture for early move-out
 - Security deposit refund conditioned on 60-day notice
 - Use violation fines
 - Make-ready cleaning charged to the security deposit
-- Lockout charges
-- HVAC filter neglect charges
-- Leak reporting requirement
-- Utilities disconnection is a lease violation
-- No roof or attic access
 - Additional tenant responsibilities incorporated by reference
-- Receipt of signed copy of the lease
-- Notice to vacate must be signed by all tenants; notice to one binds all
 
 D) Topics handled in the "sulawesi house" agreement only (`docs/tayloe_house_lease.md`)
-- Keybox liability limits (beyond negligence standard)
 - Smoke detector placement requirements
-- Security device rekey timing requirements
 - Detailed move-out personal property procedures (storage/sale notices)
 - Tenant responsibility for pest control/extermination
 - Landlord remedies for failure to maintain yard/pool beyond reimbursement
-- Advance payments section structure for reimbursements
+- Advance payments structure for reimbursements
 - Addenda list details (mold, application, guaranty)
 - Copyright/association disclosure
