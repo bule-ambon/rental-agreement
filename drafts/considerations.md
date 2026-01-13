@@ -3,30 +3,26 @@
 Below are topics covered in the Osborne Properties and Tayloe House sample leases that are not yet addressed in `drafts/agreement.md`, grouped by source.
 
 ## Addressed in both Osborne and Tayloe House
-- Automatic renewal terms and required notice periods for termination.
-- Prorated rent for partial months and strict timing for payment receipt.
-- Late fees, returned check fees, and accepted payment methods (cash, money order, certified funds).
-- Application of funds order (fees first, then rent).
-- Detailed security deposit rules: refund timing, forwarding address requirement, and deductions list.
-- Guest limits, overnight guest limits, and named occupants.
-- HOA rules, restrictive covenants, and reimbursement of HOA fines.
-- Prohibitions (smoking, waterbeds, illegal activity, business use, nuisance, hazardous acts).
-- Utilities that must remain on and service interruption limitations.
-- Condition acknowledgments, move-in condition forms, and cleanliness standards.
-- Repair request procedures, repair timelines, and tenant remedies under Texas Property Code.
-- Parking and vehicle restrictions, towing rules, and storage limits.
-- Landlord access rules, emergency access, keybox authorization, and trip charges for failed access.
-- Delivery of possession and remedies for delay of occupancy.
-- Liability clauses and renter's insurance recommendations.
-- Surrender, holding over, abandoned property handling, and holdover rent rates.
-- Landlord's lien rights and seizure/storage of property.
-- Assignment and subletting requirements and fees.
-- Early termination rights (military or family violence) and related notices.
+- Lease renewal and termination notices, including month-to-month increases.
+- Rent timing, prorations, payment methods, late/returned check fees, and application of funds.
+- Security deposit rules (no last-month offset, refund timing, forwarding address, deductions).
+- Occupancy limits, guest limits, and named occupants.
+- HOA/restrictive covenant compliance and reimbursement of related fines.
+- Use restrictions (illegal activity, nuisance, business use, smoking, waterbeds, hazardous acts).
+- Utility obligations (tenant-paid, keep services on, interruption disclaimers).
+- Condition/maintenance standards and repair notice procedures (Texas Property Code remedies).
+- Parking and vehicle limits, towing rules, and storage limits.
+- Landlord access rules (notice, emergency entry, keybox, trip charges).
+- Delivery of possession and delay of occupancy remedies.
+- Liability/insurance expectations and loss of personal property.
+- Surrender, abandoned property handling, and holdover terms.
+- Landlord's lien rights.
+- Assignment/subletting requirements.
+- Early termination rights for military or family violence.
 - Attorney's fees, collection costs, and mitigation of damages.
-- Notice methods (email, certified mail), severability, no waiver, and joint and several liability.
-- Addenda and disclosures (lead-based paint, mold, inventory/condition forms, rules and regulations).
-- Credit reporting, tenant death procedures, and sex offender database notice.
-- Rent increases during month-to-month renewals.
+- Notices, severability, no waiver, and joint and several liability.
+- Addenda and disclosures (lead-based paint, mold, inventory/condition forms, rules).
+- Information notices (credit reporting, tenant death procedures, sex offender database).
 
 ## Addressed only in Osborne
 - Termination in event of sale.
