@@ -113,6 +113,13 @@ Summary: Added `drafts/leave_out.md`, `drafts/add_in.md`, and updated the iterat
 Summary: Updated add/leave-out lists and aligned `drafts/agreement.md` with pool prohibition, yard responsibility, and broker notice removal.
 
 ## Current Plan
+- [x] Follow `tasks/iterative_prompt.md` using the markdown lease copies and updated `drafts/agreement.md`, `drafts/add_in.md`, and `drafts/leave_out.md`.
+- [x] Rewrite `drafts/considerations.md` with the categorized topics and new sections E/F as needed.
+- [x] Append activity log entry and mark plan items complete with a brief summary.
+
+Summary: Updated considerations with add/leave-out checks and removed broker language from the draft.
+
+## Current Plan
 - [x] Review remaining Part D items in `drafts/considerations.md` against `docs/tayloe_house_lease.md`.
 - [x] Integrate the remaining Part D topics into `drafts/agreement.md` with matching tone.
 - [x] Append activity log entry and mark plan items complete with a brief summary.

@@ -59,3 +59,6 @@
 ## 2026-01-13 18:45:48 UTC
 - User request: "In add_in.md, yard maintenane is going to be tenant's responsibility. the tenant needs to maintain the appearance of the lawn and driveway enough to not violate any of the hoa deed restrictions. in leave_out.md, I want to leave out all language referring to pools, except language specifying that the tenant must not put in a pool of any sort (i.e. above ground). I want to add in the smoke detector requirements from the Tayloe House example.Leave out the broker disclosure and negotiability notice and note which example it came from."
 - Actions: Updated `drafts/add_in.md` and `drafts/leave_out.md` with the requested directives and aligned `drafts/agreement.md` by removing pool/spa maintenance language, adding pool prohibition, and removing the broker/negotiability notice.
+## 2026-01-13 18:47:45 UTC
+- User request: "yes"
+- Actions: Re-ran the iterative prompt with add/leave-out lists, updated `drafts/considerations.md`, and removed broker disclaimer language per leave-out list.

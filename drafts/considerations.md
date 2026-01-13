@@ -10,13 +10,13 @@ A) Topics handled in `drafts/agreement.md`
 - Security deposit rules, interest handling, refund timing, and statutory notice about last month's rent
 - Utilities responsibility, required services kept on, and service availability notice
 - Use and occupancy limits, guests, and HOA compliance
-- Use restrictions (illegal activity, nuisance, business use, smoking, waterbeds/pools)
+- Use restrictions (illegal activity, nuisance, business use, smoking, pool prohibition)
 - Phone number change notice requirement
 - Common area fee disclaimer
+- Lien/encumbrance prohibition
 - Pets policy
 - Maintenance and condition standards
-- Yard maintenance responsibilities
-- Pool/spa maintenance
+- Yard maintenance responsibilities and HOA appearance requirement
 - Move-in condition form
 - Repairs, notice procedures, tenant-caused damage, and advance payment for tenant repairs
 - Alterations and improvements
@@ -46,7 +46,6 @@ A) Topics handled in `drafts/agreement.md`
 - Additional terms (leak reporting, utilities disconnection violation, roof/attic prohibition, lockout charges, HVAC filter neglect charges)
 - Signed copy acknowledgment
 - Information notices (credit reporting, tenant death, sex offender database, broker lien disclaimer)
-- Broker disclosure and negotiability notice
 - Governing law
 - Signatures and execution
 
@@ -65,7 +64,13 @@ D) Topics handled in the "sulawesi house" agreement only (`docs/tayloe_house_lea
 - Smoke detector placement requirements
 - Detailed move-out personal property procedures (storage/sale notices)
 - Tenant responsibility for pest control/extermination
-- Landlord remedies for failure to maintain yard/pool beyond reimbursement
+- Landlord remedies for failure to maintain yard beyond reimbursement
 - Advance payments structure for reimbursements
 - Addenda list details (mold, application, guaranty)
 - Copyright/association disclosure
+
+E) Topics from `drafts/leave_out.md` that still appear in `drafts/agreement.md`
+- None
+
+F) Topics from `drafts/add_in.md` that are missing from `drafts/agreement.md`
+- None

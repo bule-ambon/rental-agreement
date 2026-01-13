@@ -169,7 +169,7 @@ Addenda and disclosures, if any, are incorporated by reference and may include l
 ## 35. Information Notices
 Unpaid rent and other unpaid amounts may be reported to credit reporting agencies as permitted by law. Tenants should identify a contact for property removal in the event all occupants over 18 years of age die during the Lease: [Name, Phone, Address]. The Texas Department of Public Safety maintains a public sex offender database.
 
-Tenants are responsible for determining whether necessary services (utilities, connections, schools, and transportation) are accessible and adequate for their needs. The parties acknowledge that any brokers to this Lease have no knowledge of whether Landlord is delinquent in the payment of any lien against the Premises.
+Tenants are responsible for determining whether necessary services (utilities, connections, schools, and transportation) are accessible and adequate for their needs.
 
 ## 36. Additional Terms
 Tenants must report any indoor or outdoor water leaks promptly. It is a lease violation to have utilities disconnected during the lease term. No person is allowed on the roof or in the attic for any reason.
