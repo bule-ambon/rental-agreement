@@ -28,3 +28,9 @@ Summary: Reorganized `drafts/considerations.md` into shared, Osborne-only, and T
 - [x] Append activity log entry and mark plan items complete with a brief summary.
 
 Summary: Consolidated shared considerations and integrated them into `drafts/agreement.md`, with activity log updates.
+
+## Current Plan
+- [x] Draft an iterative prompt document in `tasks/` that instructs an AI coder to compare the lease draft against the three sample agreements and categorize topics as requested.
+- [x] Append activity log entry and mark plan items complete with a brief summary.
+
+Summary: Added `tasks/iterative_prompt.md` with instructions for comparing the draft to the sample agreements and logged the activity.
