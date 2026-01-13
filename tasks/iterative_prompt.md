@@ -31,6 +31,6 @@ D) Topics handled in the "sulawesi house" agreement only (`docs/tayloe_house_lea
 
 ## Notes
 - Do not rewrite the lease. Focus on comparing topic coverage.
-- Prefer short, clear topic phrases over long sentences.
+- Prefer short, clear topic phrases over long sentences, but not so brief as to lose important meaning.
 - If a topic appears in two samples but not the third, do not put it in section A; include it in the relevant sample-only sections.
 - If a topic appears in multiple samples but not in `drafts/agreement.md`, list it under each applicable sample-only section.
