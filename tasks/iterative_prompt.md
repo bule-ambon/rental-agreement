@@ -15,7 +15,7 @@ You are an AI coding assistant. Review the current lease draft and compare it ag
 4. Categorize the topics into the sections below.
 
 ## Required output format
-Provide a markdown document with the following sections and bullet lists:
+Rewrite `drafts/considerations.md` by replacing its contents with the following sections and bullet lists:
 
 A) Topics handled in `drafts/agreement.md` AND all three sample agreements
 - ...

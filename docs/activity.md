@@ -17,3 +17,6 @@
 ## 2026-01-13 17:27:16 UTC
 - User request: "Now draft a document in tasks that can be used as an iterative prompt for improving this document. I want it to give instructions to the ai coder to review agreements.md and compare it to the three sample lease documents. Categorize the topics discussed into: A) topics handled in agreements.md AND all three of the sample agreements, B) Topics handled in agreements.md only, C) Topics handled in Residential_Lease_Agreement for Max & Becca only, Topics Handled in Osborne only, D) Topics handled in sulawesi house only."
 - Actions: Created `tasks/iterative_prompt.md` with instructions to compare the draft lease to the three sample agreements and output categorized topic lists.
+## 2026-01-13 17:29:32 UTC
+- User request: "revise that document to specify rather than creating  a new document for the output format, that I want it to rewrite the considerations.md file, replacing the old contents."
+- Actions: Updated `tasks/iterative_prompt.md` to require rewriting `drafts/considerations.md` instead of creating a new output document.

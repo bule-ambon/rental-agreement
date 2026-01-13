@@ -34,3 +34,9 @@ Summary: Consolidated shared considerations and integrated them into `drafts/agr
 - [x] Append activity log entry and mark plan items complete with a brief summary.
 
 Summary: Added `tasks/iterative_prompt.md` with instructions for comparing the draft to the sample agreements and logged the activity.
+
+## Current Plan
+- [x] Update `tasks/iterative_prompt.md` to require rewriting `drafts/considerations.md` instead of creating a new output document.
+- [x] Append activity log entry and mark plan items complete with a brief summary.
+
+Summary: Updated the iterative prompt to rewrite `drafts/considerations.md` and logged the activity.
