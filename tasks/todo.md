@@ -70,6 +70,13 @@ Summary: Rewrote `drafts/considerations.md` per the iterative prompt and logged 
 Summary: Rewrote `drafts/considerations.md` per the iterative prompt and logged the activity.
 
 ## Current Plan
+- [x] Record the user-edited `AGENTS.md` update in the activity log.
+- [x] Commit and push the `AGENTS.md` change.
+- [x] Mark this plan complete with a brief summary.
+
+Summary: Logged the user-edited `AGENTS.md` update and prepared it for commit and push.
+
+## Current Plan
 - [x] Review `drafts/considerations.md`, `docs/tayloe_house_lease.md`, and `drafts/agreement.md` to map Section D topics to draft sections.
 - [x] Integrate the Sulawesi house topics into `drafts/agreement.md` in a sensible order and matching tone.
 - [x] Append activity log entry and mark plan items complete with a brief summary.

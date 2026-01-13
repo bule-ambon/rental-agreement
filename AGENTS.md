@@ -15,8 +15,7 @@ These rules define the workflow and constraints an AGENT must follow in this rep
   - [ ] Step
   - [x] Done
 
-## 4) Plan Verification
-- After drafting the plan, AGENT must ask the user to verify/approve the plan **before** beginning work.
+
 
 ## 5) Task Execution
 - AGENT must work through the to-do items in order.
