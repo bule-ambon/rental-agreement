@@ -70,6 +70,13 @@ Summary: Rewrote `drafts/considerations.md` per the iterative prompt and logged 
 Summary: Rewrote `drafts/considerations.md` per the iterative prompt and logged the activity.
 
 ## Current Plan
+- [x] Review `drafts/agreement.md`, add/leave-out lists, and sample leases to compile topic coverage.
+- [x] Rewrite `drafts/considerations.md` with the required A-F topic sections.
+- [x] Append activity log entry and mark this plan complete with a brief summary.
+
+Summary: Rewrote `drafts/considerations.md` per the iterative prompt, including leave-out/add-in checks, and logged the activity.
+
+## Current Plan
 - [x] Record the user-edited `AGENTS.md` update in the activity log.
 - [x] Commit and push the `AGENTS.md` change.
 - [x] Mark this plan complete with a brief summary.

@@ -71,3 +71,6 @@
 ## 2026-01-13 19:00:33 UTC
 - User request: "I edited agents.md. please push changes to github"
 - Actions: Prepared the user-edited `AGENTS.md` for commit and push.
+## 2026-01-13 19:03:58 UTC
+- User request: "read agents.md and follow the directions, then after that read iterative_prompt.md and follow the directions."
+- Actions: Reviewed the draft, add/leave-out lists, and sample leases, then rewrote `drafts/considerations.md` with updated topic coverage and leave-out/add-in checks.
