@@ -84,6 +84,13 @@ Summary: Integrated the Sulawesi house topics into `drafts/agreement.md` and log
 Summary: Rewrote `drafts/considerations.md` after rerunning the iterative prompt and logged the activity.
 
 ## Current Plan
+- [x] Review C) items in `drafts/considerations.md` and locate matching language in `docs/osborne_properties_lease_template.md`.
+- [x] Add comparable clauses to `drafts/agreement.md` in the existing tone and structure.
+- [x] Append activity log entry and mark plan items complete with a brief summary.
+
+Summary: Added Osborne-derived clauses to `drafts/agreement.md` and logged the update.
+
+## Current Plan
 - [x] Review remaining Part D items in `drafts/considerations.md` against `docs/tayloe_house_lease.md`.
 - [x] Integrate the remaining Part D topics into `drafts/agreement.md` with matching tone.
 - [x] Append activity log entry and mark plan items complete with a brief summary.

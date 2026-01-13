@@ -47,3 +47,6 @@
 ## 2026-01-13 18:17:22 UTC
 - User request: "yes"
 - Actions: Re-ran the iterative prompt and updated `drafts/considerations.md` to reflect the current draft coverage.
+## 2026-01-13 18:26:30 UTC
+- User request: "Now turn attention to C) from considerations.md and make sure that my agreement.md has something comparable for: Termination in event of sale, indemnification clause, alterations/improvements, prohibition on tenant-created liens or encumbrances, lockout charges, hvac filter neglect charges, leak reporting requirement, utilities disconnetion a lease violation, no roof or attic access, receipt of signed copy of the lease, notice to vacate"
+- Actions: Added comparable Osborne clauses to `drafts/agreement.md`, covering termination on sale, indemnification, alterations, lien prohibition, lockouts, HVAC neglect, leak reporting, utility disconnection violation, roof/attic prohibition, signed copy acknowledgment, and notice-to-vacate rules.

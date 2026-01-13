@@ -56,6 +56,8 @@ Tenants shall notify Landlord in writing of any change to their phone numbers wi
 
 Landlord is not obligated to pay any non-mandatory or user fees for Tenant's use of any common areas or facilities.
 
+Tenants shall not permit any lien or encumbrance to be placed on the Premises or any building on the Premises.
+
 ## 9. Pets
 [ ] Pets are not permitted.
 
@@ -75,17 +77,20 @@ Tenants shall promptly notify Landlord of needed repairs or unsafe conditions. L
 
 If a repair is the responsibility of Tenants, Landlord may require advance payment for the reasonable cost of the repair before work is performed.
 
-## 12. Parking and Vehicles
+## 12. Alterations and Improvements
+Tenants shall not paint, alter, improve, or add to the Premises without Landlord's prior written consent. Unless otherwise agreed, approved alterations become the property of Landlord and remain at the Premises. Landlord may require removal and restoration at move-out.
+
+## 13. Parking and Vehicles
 Tenants may not keep more than [Vehicle Limit] vehicles on the Premises without Landlord's written consent. Vehicles may only be parked in designated areas and not on lawns. Inoperable or unregistered vehicles are prohibited and may be towed at Tenants' expense.
 
-## 13. Security Devices and Smoke Detectors
+## 14. Security Devices and Smoke Detectors
 Landlord will rekey the Premises within [7] days after Tenants take possession unless already rekeyed. Requests for rekeying, changes, or additional security devices must be in writing. Tenants are responsible for the cost of any additional rekeying or devices requested by Tenants.
 
 Tenants shall test smoke detectors and replace batteries as needed. Tenants shall not disable or remove any smoke detector. Requests for inspection, installation, or repair of smoke detectors must be in writing.
 
 Tenants are responsible for replacing light bulbs, fluorescent tubes, and smoke detector batteries as needed.
 
-## 14. Access by Landlord
+## 15. Access by Landlord
 Landlord and Landlord's agents may enter the Premises at reasonable times to inspect, make repairs, or show the Premises. Landlord will attempt to provide notice, but may enter without notice in emergencies or when permitted by law.
 
 Landlord may display "For Sale" or "For Lease" signs on the Premises.
@@ -94,23 +99,26 @@ A keybox may be placed on the Premises during the last [45] days of the Lease or
 
 If Landlord schedules access and is denied due to Tenants' failure to provide access, Tenants may be charged a trip fee of [Trip Charge].
 
-## 15. Delivery of Possession and Move-In
+## 16. Delivery of Possession and Move-In
 Before taking possession, Tenants shall pay all required deposits and the first month's rent. If Landlord cannot deliver possession on the commencement date, rent will be prorated from the date of possession.
 
 Tenants must occupy the Premises within [Move-In Days] days after the commencement date. If Tenants cannot occupy due to construction or a prior tenant's holding over, Tenants may terminate the Lease by written notice before possession is available, and Landlord will refund the security deposit and any rent paid. Rent will be abated on a daily basis for delays caused by construction or holding over.
 
 If possession is delayed more than 30 days, either party may terminate this Lease and all payments will be refunded.
 
-## 16. Loss, Liability, and Insurance
+## 17. Loss, Liability, and Insurance
 Landlord is not responsible for loss or damage to Tenants' personal property. Tenants are encouraged to carry renter's insurance. Tenants are responsible for damage caused by Tenants, occupants, or guests.
 
-## 17. Casualty Loss or Condemnation
+## 18. Indemnification
+Except to the extent caused by Landlord's negligence, Tenants agree to indemnify and hold Landlord harmless from claims, damages, losses, and expenses arising from Tenants' use or occupancy of the Premises.
+
+## 19. Casualty Loss or Condemnation
 Casualty loss or condemnation rights are governed by Texas law. Any insurance or condemnation proceeds related to the Premises belong to Landlord.
 
-## 18. Default and Remedies
+## 20. Default and Remedies
 Failure by Tenants to pay rent or perform obligations under this Lease constitutes a default. Landlord may terminate this Lease and pursue all remedies available under Texas law, including eviction, acceleration of rent, and recovery of costs. Landlord will attempt to mitigate damages.
 
-## 19. Surrender and Holdover
+## 21. Surrender and Holdover
 At the end of the Lease, Tenants shall remove their belongings and return possession to Landlord. Tenants shall surrender the Premises in the same condition as at move-in, normal wear and tear excepted.
 
 Normal wear and tear means deterioration that occurs without negligence, carelessness, accident, or abuse.
@@ -119,50 +127,62 @@ Surrender occurs when all occupants have vacated, all personal property has been
 
 If Tenants hold over, rent will be [Holdover Rent Rate] per month, calculated on a daily basis, and the tenancy will be month-to-month unless Landlord elects otherwise.
 
-## 20. Landlord's Lien
+## 22. Landlord's Lien
 Landlord will have a lien for unpaid rent against Tenants' nonexempt personal property as provided by Texas law. In the event of default, Landlord may seize nonexempt property in accordance with applicable law.
 
-## 21. Assignment and Subletting
+## 23. Assignment and Subletting
 Tenants may not assign this Lease or sublet the Premises without Landlord's prior written consent. Consent does not release Tenants from their obligations.
 
-## 22. Early Termination Rights
+## 24. Early Termination Rights
 Tenants may have statutory rights to terminate the Lease early due to military service or family violence as provided by Texas law.
 
-## 23. Attorney's Fees
+## 25. Termination in Event of Sale
+Landlord may terminate this Lease upon at least [60] days' written notice if the Premises is sold.
+
+## 26. Attorney's Fees
 The prevailing party in a legal proceeding related to this Lease may recover reasonable attorney's fees and costs as allowed by law.
 
-## 24. Representations
+## 27. Representations
 Each party represents that they are of legal age to enter into this Lease and that statements in this Lease and any rental application are true and material. A material misrepresentation is a default.
 
-## 25. Notices
+## 28. Notices
 All notices must be in writing and are effective when hand-delivered, sent by certified mail, or sent by email if both parties consent. Notices to Tenants will be sent to the Premises unless another address is provided in writing. Notices to Landlord will be sent to [Landlord Notice Address].
 
-## 26. Subordination
+Any notice to vacate must be signed by all Tenants. Notice to or from any one Tenant is notice to all Tenants.
+
+## 29. Subordination
 This Lease is subordinate to any liens, encumbrances, restrictive covenants, and owners' association rules affecting the Premises.
 
-## 27. Entire Agreement
+## 30. Entire Agreement
 This Lease (including any addenda) constitutes the entire agreement between the Parties and may be amended only in writing signed by both Parties.
 
-## 28. Severability
+## 31. Severability
 If any provision is unenforceable, the remaining provisions remain in full force and effect.
 
-## 29. No Waiver
+## 32. No Waiver
 Landlord's failure to enforce any provision is not a waiver of future enforcement.
 
-## 30. Joint and Several Liability
+## 33. Joint and Several Liability
 All Tenants are jointly and severally liable for all obligations under this Lease.
 
-## 31. Addenda and Disclosures
+## 34. Addenda and Disclosures
 Addenda and disclosures, if any, are incorporated by reference and may include lead-based paint, mold, inventory/condition forms, rules and regulations, and other required notices.
 
-## 32. Information Notices
+## 35. Information Notices
 Unpaid rent and other unpaid amounts may be reported to credit reporting agencies as permitted by law. Tenants should identify a contact for property removal in the event all occupants over 18 years of age die during the Lease: [Name, Phone, Address]. The Texas Department of Public Safety maintains a public sex offender database.
 
 Tenants are responsible for determining whether necessary services (utilities, connections, schools, and transportation) are accessible and adequate for their needs. The parties acknowledge that any brokers to this Lease have no knowledge of whether Landlord is delinquent in the payment of any lien against the Premises.
 
 This Lease is negotiable between the parties. If no licensed real estate broker or attorney negotiated this Lease as a party or for a party, this Lease may be voidable at the Tenant's option. Landlord's broker, if any, is: [Broker Name], who [will/will not] act as the property manager.
 
-## 33. Governing Law
+## 36. Additional Terms
+Tenants must report any indoor or outdoor water leaks promptly. It is a lease violation to have utilities disconnected during the lease term. No person is allowed on the roof or in the attic for any reason.
+
+Lockout charges are [Lockout Charge Business Hours] during business hours and [Lockout Charge After Hours] after hours. HVAC problems resulting from filter neglect will result in cleaning and repair charges to Tenants.
+
+Tenant acknowledges receipt of a signed copy of this Lease.
+
+## 37. Governing Law
 This Lease shall be governed by and construed under the laws of the State of Texas.
 
 ## Signatures
