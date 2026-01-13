@@ -68,12 +68,15 @@ Tenants acknowledge that they have examined the Premises and that it is in good 
 
 Yard maintenance is the responsibility of Tenants. Tenants shall keep the lawn and driveway in a condition that does not violate HOA deed restrictions. "Yard maintenance" includes mowing, trimming, watering, pest control, and debris removal.
 
+Tenants are responsible for routine pest control and extermination costs. If Tenants fail to perform obligations in this section, Landlord may perform the required work and Tenants must immediately reimburse Landlord's reasonable expenses.
+
 Tenants shall complete a move-in condition form and return it to Landlord within [Move-In Condition Days] days after taking possession.
 
 ## 11. Repairs and Notice
 Tenants shall promptly notify Landlord of needed repairs or unsafe conditions. Landlord will be given a reasonable time to make repairs. Tenants are responsible for damage caused by their misuse or negligence. Repair obligations are governed by Subchapter B, Chapter 92 of the Texas Property Code.
 
 If a repair is the responsibility of Tenants, Landlord may require advance payment for the reasonable cost of the repair before work is performed.
+Landlord may require advance payment or reimbursement for any amounts Tenants are responsible for under this Lease.
 
 ## 12. Alterations and Improvements
 Tenants shall not paint, alter, improve, or add to the Premises without Landlord's prior written consent. Unless otherwise agreed, approved alterations become the property of Landlord and remain at the Premises. Landlord may require removal and restoration at move-out.
@@ -85,6 +88,7 @@ Tenants may not keep more than [Vehicle Limit] vehicles on the Premises without 
 Landlord will rekey the Premises within [7] days after Tenants take possession unless already rekeyed. Requests for rekeying, changes, or additional security devices must be in writing. Tenants are responsible for the cost of any additional rekeying or devices requested by Tenants.
 
 Tenants shall test smoke detectors and replace batteries as needed. Tenants shall not disable or remove any smoke detector. Requests for inspection, installation, or repair of smoke detectors must be in writing.
+Smoke detectors are installed in locations required by the Texas Property Code.
 
 Tenants are responsible for replacing light bulbs, fluorescent tubes, and smoke detector batteries as needed.
 
@@ -122,6 +126,7 @@ At the end of the Lease, Tenants shall remove their belongings and return posses
 Normal wear and tear means deterioration that occurs without negligence, carelessness, accident, or abuse.
 
 Surrender occurs when all occupants have vacated, all personal property has been removed, and all keys and access devices have been returned. Property left behind may be treated as abandoned and removed, stored, or disposed of at Tenants' expense.
+Landlord may dispose of such property in the trash, donate it, or store and sell it in accordance with Section 54.045(b)-(e) of the Texas Property Code. Tenants shall reimburse Landlord for reasonable packing, removal, storage, and sale costs.
 
 If Tenants hold over, rent will be [Holdover Rent Rate] per month, calculated on a daily basis, and the tenancy will be month-to-month unless Landlord elects otherwise.
 
@@ -164,12 +169,13 @@ Landlord's failure to enforce any provision is not a waiver of future enforcemen
 All Tenants are jointly and severally liable for all obligations under this Lease.
 
 ## 34. Addenda and Disclosures
-Addenda and disclosures, if any, are incorporated by reference and may include lead-based paint, mold, inventory/condition forms, rules and regulations, and other required notices.
+Addenda and disclosures, if any, are incorporated by reference and may include lead-based paint, mold, inventory/condition forms, rules and regulations, owners' association rules, pet agreements, application materials, application deposit/hold agreements, guaranty agreements, and other required notices.
 
 ## 35. Information Notices
 Unpaid rent and other unpaid amounts may be reported to credit reporting agencies as permitted by law. Tenants should identify a contact for property removal in the event all occupants over 18 years of age die during the Lease: [Name, Phone, Address]. The Texas Department of Public Safety maintains a public sex offender database.
 
 Tenants are responsible for determining whether necessary services (utilities, connections, schools, and transportation) are accessible and adequate for their needs.
+If an active REALTOR member of the Texas Association of REALTORS or an active member of the State Bar of Texas does not negotiate this Lease as a party or for a party, this Lease is voidable at Tenants' will.
 
 ## 36. Additional Terms
 Tenants must report any indoor or outdoor water leaks promptly. It is a lease violation to have utilities disconnected during the lease term. No person is allowed on the roof or in the attic for any reason.

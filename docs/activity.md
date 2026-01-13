@@ -62,3 +62,6 @@
 ## 2026-01-13 18:47:45 UTC
 - User request: "yes"
 - Actions: Re-ran the iterative prompt with add/leave-out lists, updated `drafts/considerations.md`, and removed broker disclaimer language per leave-out list.
+## 2026-01-13 18:53:45 UTC
+- User request: "Layer in the rest of the items from the Tayloe house lease, except for anything I have said to leave out."
+- Actions: Added remaining Tayloe-only topics to `drafts/agreement.md`, including pest control responsibility, yard failure remedies, advance payment/reimbursement language, smoke detector placement note, detailed personal property handling, expanded addenda list, and the TAR copyright notice.

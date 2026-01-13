@@ -120,6 +120,11 @@ Summary: Updated add/leave-out lists and aligned `drafts/agreement.md` with pool
 Summary: Updated considerations with add/leave-out checks and removed broker language from the draft.
 
 ## Current Plan
+- [ ] Review remaining Tayloe-only items in `drafts/considerations.md` and match source language in `docs/tayloe_house_lease.md`.
+- [ ] Integrate remaining Tayloe items into `drafts/agreement.md`, excluding any topics listed in `drafts/leave_out.md`.
+- [ ] Append activity log entry and mark plan items complete with a brief summary.
+
+## Current Plan
 - [x] Review remaining Part D items in `drafts/considerations.md` against `docs/tayloe_house_lease.md`.
 - [x] Integrate the remaining Part D topics into `drafts/agreement.md` with matching tone.
 - [x] Append activity log entry and mark plan items complete with a brief summary.
@@ -132,3 +137,10 @@ Summary: Integrated the remaining Part D items into `drafts/agreement.md` and lo
 - [x] Append activity log entry and mark plan items complete with a brief summary.
 
 Summary: Rewrote `drafts/considerations.md` after rerunning the iterative prompt and logged the activity.
+
+## Current Plan
+- [x] Review Tayloe-only items in `drafts/considerations.md` and confirm gaps in `drafts/agreement.md` against `docs/tayloe_house_lease.md`.
+- [x] Integrate remaining Tayloe items into `drafts/agreement.md`, excluding topics listed in `drafts/leave_out.md`.
+- [x] Append activity log entry and mark plan items complete with a brief summary.
+
+Summary: Added remaining Tayloe-only topics to `drafts/agreement.md` (pest control, yard failure remedies, advance payment language, smoke detector placement note, personal property procedures, addenda list detail, and TAR copyright notice) and logged the work.
