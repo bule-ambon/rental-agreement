@@ -34,14 +34,16 @@ Returned checks will incur a fee of [Returned Check Fee]. Landlord may require s
 Landlord may apply any funds received first to non-rent obligations (including fees, utilities, and repairs) and then to rent.
 
 ## 6. Security Deposit
-Tenants shall pay a security deposit of [Security Deposit Amount] upon execution of this Lease. No interest will be paid on the deposit. The deposit may not be applied by Tenants to the payment of rent.
+Tenants shall pay a security deposit of [Security Deposit Amount] upon execution of this Lease. No interest will be paid to Tenants on the deposit. Landlord may place the deposit in an interest-bearing account and any interest earned will belong to Landlord. The deposit may not be applied by Tenants to the payment of rent.
 
-Landlord will refund or account for the deposit within 30 days after Tenants surrender the Premises and provide a written forwarding address. Landlord may deduct for unpaid rent, damages beyond normal wear and tear, cleaning, unpaid fees, utilities, missing keys, or other charges owed under this Lease. If deductions exceed the deposit, Tenants shall pay the balance within [10] days of written demand.
+Landlord will refund or account for the deposit within 30 days after Tenants surrender the Premises and provide a written forwarding address. Landlord may deduct for unpaid rent, damages beyond normal wear and tear, cleaning, unpaid fees, utilities, missing keys, or other charges owed under this Lease. Deductions may include, without limitation, unpaid late fees, pet charges, replacement of missing keys or devices, removal of unauthorized locks, packing or storing abandoned property, and costs of reletting in the event of default. If deductions exceed the deposit, Tenants shall pay the balance within [10] days of written demand.
 
 Texas law provides that a tenant may not withhold the last month's rent on grounds that the security deposit is security for unpaid rent.
 
 ## 7. Utilities
 Tenants are responsible for all connection fees, service fees, usage fees, and other costs for utilities serving the Premises (including electricity, gas, water, wastewater, garbage, cable, and internet). Tenants must keep gas, electricity, water, wastewater, and garbage services on at all times during the term. Landlord is not liable for interruptions beyond Landlord's control.
+
+Before signing this Lease, Tenants should determine whether necessary utilities and services are available and adequate for their needs.
 
 ## 8. Use and Occupancy
 The Premises shall be used solely as a private residence by the Tenants and their immediate family. The only occupants permitted to reside at the Premises are: [Occupant Names and Ages].
@@ -66,8 +68,12 @@ Yard maintenance is the responsibility of: [Landlord/Tenants]. If Tenants are re
 
 If the Premises includes a pool or spa, Tenants shall maintain it in a clean and safe condition and comply with any pool/spa maintenance addendum.
 
+Tenants shall complete a move-in condition form and return it to Landlord within [Move-In Condition Days] days after taking possession.
+
 ## 11. Repairs and Notice
 Tenants shall promptly notify Landlord of needed repairs or unsafe conditions. Landlord will be given a reasonable time to make repairs. Tenants are responsible for damage caused by their misuse or negligence. Repair obligations are governed by Subchapter B, Chapter 92 of the Texas Property Code.
+
+If a repair is the responsibility of Tenants, Landlord may require advance payment for the reasonable cost of the repair before work is performed.
 
 ## 12. Parking and Vehicles
 Tenants may not keep more than [Vehicle Limit] vehicles on the Premises without Landlord's written consent. Vehicles may only be parked in designated areas and not on lawns. Inoperable or unregistered vehicles are prohibited and may be towed at Tenants' expense.
@@ -75,14 +81,18 @@ Tenants may not keep more than [Vehicle Limit] vehicles on the Premises without 
 ## 13. Security Devices and Smoke Detectors
 Landlord will rekey the Premises within [7] days after Tenants take possession unless already rekeyed. Requests for rekeying, changes, or additional security devices must be in writing. Tenants are responsible for the cost of any additional rekeying or devices requested by Tenants.
 
-Tenants shall test smoke detectors and replace batteries as needed. Tenants shall not disable or remove any smoke detector.
+Tenants shall test smoke detectors and replace batteries as needed. Tenants shall not disable or remove any smoke detector. Requests for inspection, installation, or repair of smoke detectors must be in writing.
+
+Tenants are responsible for replacing light bulbs, fluorescent tubes, and smoke detector batteries as needed.
 
 ## 14. Access by Landlord
 Landlord and Landlord's agents may enter the Premises at reasonable times to inspect, make repairs, or show the Premises. Landlord will attempt to provide notice, but may enter without notice in emergencies or when permitted by law.
 
 Landlord may display "For Sale" or "For Lease" signs on the Premises.
 
-A keybox may be placed on the Premises during the last [45] days of the Lease or while the Premises is listed for sale or lease. If Landlord schedules access and is denied due to Tenants' failure to provide access, Tenants may be charged a trip fee of [Trip Charge].
+A keybox may be placed on the Premises during the last [45] days of the Lease or while the Premises is listed for sale or lease. Tenants may withdraw authorization for a keybox by written notice to Landlord. Landlord and Landlord's agents are not responsible for loss or damage arising from use of the keybox unless caused by Landlord's negligence.
+
+If Landlord schedules access and is denied due to Tenants' failure to provide access, Tenants may be charged a trip fee of [Trip Charge].
 
 ## 15. Delivery of Possession and Move-In
 Before taking possession, Tenants shall pay all required deposits and the first month's rent. If Landlord cannot deliver possession on the commencement date, rent will be prorated from the date of possession.
@@ -103,12 +113,14 @@ Failure by Tenants to pay rent or perform obligations under this Lease constitut
 ## 19. Surrender and Holdover
 At the end of the Lease, Tenants shall remove their belongings and return possession to Landlord. Tenants shall surrender the Premises in the same condition as at move-in, normal wear and tear excepted.
 
+Normal wear and tear means deterioration that occurs without negligence, carelessness, accident, or abuse.
+
 Surrender occurs when all occupants have vacated, all personal property has been removed, and all keys and access devices have been returned. Property left behind may be treated as abandoned and removed, stored, or disposed of at Tenants' expense.
 
 If Tenants hold over, rent will be [Holdover Rent Rate] per month, calculated on a daily basis, and the tenancy will be month-to-month unless Landlord elects otherwise.
 
 ## 20. Landlord's Lien
-Landlord will have a lien for unpaid rent against Tenants' nonexempt personal property as provided by Texas law.
+Landlord will have a lien for unpaid rent against Tenants' nonexempt personal property as provided by Texas law. In the event of default, Landlord may seize nonexempt property in accordance with applicable law.
 
 ## 21. Assignment and Subletting
 Tenants may not assign this Lease or sublet the Premises without Landlord's prior written consent. Consent does not release Tenants from their obligations.
@@ -145,6 +157,10 @@ Addenda and disclosures, if any, are incorporated by reference and may include l
 
 ## 32. Information Notices
 Unpaid rent and other unpaid amounts may be reported to credit reporting agencies as permitted by law. Tenants should identify a contact for property removal in the event all occupants over 18 years of age die during the Lease: [Name, Phone, Address]. The Texas Department of Public Safety maintains a public sex offender database.
+
+Tenants are responsible for determining whether necessary services (utilities, connections, schools, and transportation) are accessible and adequate for their needs. The parties acknowledge that any brokers to this Lease have no knowledge of whether Landlord is delinquent in the payment of any lien against the Premises.
+
+This Lease is negotiable between the parties. If no licensed real estate broker or attorney negotiated this Lease as a party or for a party, this Lease may be voidable at the Tenant's option. Landlord's broker, if any, is: [Broker Name], who [will/will not] act as the property manager.
 
 ## 33. Governing Law
 This Lease shall be governed by and construed under the laws of the State of Texas.

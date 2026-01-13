@@ -41,3 +41,6 @@
 ## 2026-01-13 18:08:08 UTC
 - User request: "I've made some changes. let's get it updated on github"
 - Actions: Prepared updated changes for commit and push.
+## 2026-01-13 18:11:29 UTC
+- User request: "Layer in the remainin part of D items."
+- Actions: Integrated remaining Tayloe-specific topics into `drafts/agreement.md`, including deposit interest handling, move-in form, keybox withdrawal, smoke detector requests, advance repair payments, and broker/negotiability notices.
