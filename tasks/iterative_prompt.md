@@ -4,9 +4,9 @@ You are an AI coding assistant. Review the current lease draft and compare it ag
 
 ## Files to review
 - Draft to analyze: `drafts/agreement.md`
-- Sample 1: `Residential_Lease_Agreement for Max & Becca.docx`
-- Sample 2: `2019-05 Osborne Properties Residential Lease Template.docx`
-- Sample 3 ("sulawesi house" reference): `Tayloe House lease_agreement 4-1-21 for 3 Months.pdf`
+- Sample 1: `docs/residential_lease_agreement_max_becca.md`
+- Sample 2: `docs/osborne_properties_lease_template.md`
+- Sample 3 ("sulawesi house" reference): `docs/tayloe_house_lease.md`
 
 ## Task
 1. Read `drafts/agreement.md` and each sample agreement.
@@ -23,13 +23,13 @@ A) Topics handled in `drafts/agreement.md` AND all three sample agreements
 B) Topics handled in `drafts/agreement.md` only
 - ...
 
-C) Topics handled in `Residential_Lease_Agreement for Max & Becca.docx` only
+C) Topics handled in `docs/residential_lease_agreement_max_becca.md` only
 - ...
 
-D) Topics handled in `2019-05 Osborne Properties Residential Lease Template.docx` only
+D) Topics handled in `docs/osborne_properties_lease_template.md` only
 - ...
 
-E) Topics handled in the "sulawesi house" agreement only (`Tayloe House lease_agreement 4-1-21 for 3 Months.pdf`)
+E) Topics handled in the "sulawesi house" agreement only (`docs/tayloe_house_lease.md`)
 - ...
 
 ## Notes

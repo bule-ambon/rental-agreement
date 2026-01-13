@@ -47,3 +47,10 @@ Summary: Updated the iterative prompt to rewrite `drafts/considerations.md` and 
 - [x] Append activity log entry and mark plan items complete with a brief summary.
 
 Summary: Rewrote `drafts/considerations.md` with the requested topic categories and logged the activity.
+
+## Current Plan
+- [x] Extract the three sample leases into markdown files under `docs/` for faster reuse.
+- [x] Update `tasks/iterative_prompt.md` to reference the new markdown copies.
+- [x] Append activity log entry and mark plan items complete with a brief summary.
+
+Summary: Added markdown copies of the sample leases in `docs/` and updated the iterative prompt to reference them.
