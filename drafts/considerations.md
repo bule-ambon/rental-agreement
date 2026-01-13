@@ -2,27 +2,38 @@
 
 A) Topics handled in `drafts/agreement.md`
 - Parties and premises identification
-- Lease term and renewal notice
+- Legal description and non-real-property items
+- Lease term, renewal, and rent increase notice
 - Rent, prorations, payment timing, and payment location
 - Late charges and returned check fees
 - Application of funds
-- Security deposit rules and refund timing
+- Security deposit rules, refund timing, and statutory notice about last month's rent
 - Utilities responsibility and required services kept on
 - Use and occupancy limits, guests, and HOA compliance
 - Use restrictions (illegal activity, nuisance, business use, smoking, waterbeds/pools)
+- Phone number change notice requirement
+- Common area fee disclaimer
 - Pets policy
 - Maintenance and condition standards
+- Yard maintenance responsibilities
+- Pool/spa maintenance
 - Repairs, notice procedures, and tenant-caused damage
 - Parking and vehicle limits
-- Landlord access, keybox authorization, and trip charges
-- Delivery of possession and delay remedies
+- Security devices and rekeying procedures
+- Smoke detector obligations
+- Landlord access, for sale/for lease signs, keybox authorization, and trip charges
+- Delivery of possession, move-in timing, and delay remedies
 - Loss, liability, and renter's insurance recommendation
+- Casualty loss or condemnation terms
 - Default, remedies, and mitigation
 - Surrender, abandoned property, and holdover terms
 - Landlord's lien
 - Assignment and subletting
 - Early termination rights (military or family violence)
+- Attorney's fees
+- Representations and misrepresentation default
 - Notices and communication methods
+- Subordination to liens, encumbrances, and restrictive covenants
 - Entire agreement, severability, and no waiver
 - Joint and several liability
 - Addenda and disclosures
@@ -33,7 +44,6 @@ A) Topics handled in `drafts/agreement.md`
 B) Topics handled in `docs/residential_lease_agreement_max_becca.md` only
 - Room reservation for specific individuals
 - Alterations/improvements require landlord consent
-- Yard maintenance responsibilities
 
 C) Topics handled in `docs/osborne_properties_lease_template.md` only
 - Termination in event of sale
@@ -43,7 +53,6 @@ C) Topics handled in `docs/osborne_properties_lease_template.md` only
 - Prohibition on tenant-created liens or encumbrances
 - Security deposit forfeiture for early move-out
 - Security deposit refund conditioned on 60-day notice
-- Rent increases during month-to-month renewals
 - Use violation fines
 - Make-ready cleaning charged to the security deposit
 - Lockout charges
@@ -54,24 +63,23 @@ C) Topics handled in `docs/osborne_properties_lease_template.md` only
 - Additional tenant responsibilities incorporated by reference
 - Receipt of signed copy of the lease
 - Notice to vacate must be signed by all tenants; notice to one binds all
-- Subordination to liens and encumbrances
-- Casualty loss or condemnation terms
-- Attorney's fees and related legal costs
 
 D) Topics handled in the "sulawesi house" agreement only (`docs/tayloe_house_lease.md`)
-- Legal description and non-real-property items
-- Delay of occupancy and required move-in timing
-- Security deposit statutory notices
-- Rent increases during month-to-month renewals
-- Phone number change notice requirement
-- Common area fee disclaimer
-- For sale/for lease sign rights
-- Smoke detector obligations
-- Security devices and rekeying procedures
-- Move-in condition and move-out procedures/definitions
-- Pool/spa maintenance provisions
-- Yard maintenance responsibilities
-- Representations and misrepresentation default
-- Subordination to liens and encumbrances
-- Casualty loss or condemnation terms
-- Attorney's fees and related legal costs
+- Security deposit interest
+- Detailed security deposit deductions list
+- Access to seize nonexempt property when in default
+- Move-in condition form
+- Personal property removal procedures after move-out
+- Damage definitions (normal wear and tear)
+- Failure to maintain remedies for yard or pool/spa
+- Advance payments
+- Keybox authorization withdrawal
+- Keybox liability limits
+- Tenant responsibilities for light bulbs and batteries
+- Security device change requests in writing
+- Tenant responsibilities for rekey costs
+- Smoke detector placement and inspection requests
+- Landlord's broker disclosure and negotiability notice
+- Tenant responsibility to verify services availability
+- Credit reporting notice repetition and broker lien disclaimer
+- Copyright/association disclosure
