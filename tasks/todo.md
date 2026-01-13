@@ -105,6 +105,14 @@ Summary: Updated `drafts/considerations.md` after rerunning the iterative prompt
 Summary: Added `drafts/leave_out.md`, `drafts/add_in.md`, and updated the iterative prompt to compare against them.
 
 ## Current Plan
+- [x] Update `drafts/add_in.md` with the yard maintenance responsibility details and smoke detector requirements to include.
+- [x] Update `drafts/leave_out.md` to exclude pool-related language (except prohibitions) and broker disclosure/negotiability language with source notes.
+- [x] Update `drafts/agreement.md` to reflect the add/leave-out changes.
+- [x] Append activity log entry and mark plan items complete with a brief summary.
+
+Summary: Updated add/leave-out lists and aligned `drafts/agreement.md` with pool prohibition, yard responsibility, and broker notice removal.
+
+## Current Plan
 - [x] Review remaining Part D items in `drafts/considerations.md` against `docs/tayloe_house_lease.md`.
 - [x] Integrate the remaining Part D topics into `drafts/agreement.md` with matching tone.
 - [x] Append activity log entry and mark plan items complete with a brief summary.

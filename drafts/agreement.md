@@ -50,7 +50,7 @@ The Premises shall be used solely as a private residence by the Tenants and thei
 
 Overnight guests may not stay longer than [Guest Limit Days] days without Landlord's written consent. Tenants shall comply with all HOA rules and restrictive covenants and reimburse Landlord for any fines caused by Tenants or their guests.
 
-Tenants shall not use the Premises for illegal activity, business use, or any nuisance or hazardous activity. Smoking is not permitted inside the dwelling. Waterbeds, above-ground pools, hot tubs, and trampolines are not permitted without Landlord's written consent.
+Tenants shall not use the Premises for illegal activity, business use, or any nuisance or hazardous activity. Smoking is not permitted inside the dwelling. Tenants shall not install or permit any pool of any kind, including above-ground pools.
 
 Tenants shall notify Landlord in writing of any change to their phone numbers within [5] days of the change.
 
@@ -66,9 +66,7 @@ Tenants shall not permit any lien or encumbrance to be placed on the Premises or
 ## 10. Maintenance and Condition
 Tenants acknowledge that they have examined the Premises and that it is in good and habitable condition. Tenants shall keep the Premises clean and sanitary, dispose of garbage properly, and use fixtures and appliances in a reasonable manner.
 
-Yard maintenance is the responsibility of: [Landlord/Tenants]. If Tenants are responsible, "yard maintenance" includes mowing, trimming, watering, pest control, and debris removal.
-
-If the Premises includes a pool or spa, Tenants shall maintain it in a clean and safe condition and comply with any pool/spa maintenance addendum.
+Yard maintenance is the responsibility of Tenants. Tenants shall keep the lawn and driveway in a condition that does not violate HOA deed restrictions. "Yard maintenance" includes mowing, trimming, watering, pest control, and debris removal.
 
 Tenants shall complete a move-in condition form and return it to Landlord within [Move-In Condition Days] days after taking possession.
 
@@ -172,8 +170,6 @@ Addenda and disclosures, if any, are incorporated by reference and may include l
 Unpaid rent and other unpaid amounts may be reported to credit reporting agencies as permitted by law. Tenants should identify a contact for property removal in the event all occupants over 18 years of age die during the Lease: [Name, Phone, Address]. The Texas Department of Public Safety maintains a public sex offender database.
 
 Tenants are responsible for determining whether necessary services (utilities, connections, schools, and transportation) are accessible and adequate for their needs. The parties acknowledge that any brokers to this Lease have no knowledge of whether Landlord is delinquent in the payment of any lien against the Premises.
-
-This Lease is negotiable between the parties. If no licensed real estate broker or attorney negotiated this Lease as a party or for a party, this Lease may be voidable at the Tenant's option. Landlord's broker, if any, is: [Broker Name], who [will/will not] act as the property manager.
 
 ## 36. Additional Terms
 Tenants must report any indoor or outdoor water leaks promptly. It is a lease violation to have utilities disconnected during the lease term. No person is allowed on the roof or in the attic for any reason.
