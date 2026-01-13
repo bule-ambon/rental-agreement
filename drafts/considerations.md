@@ -2,52 +2,18 @@
 
 A) Topics handled in `drafts/agreement.md`
 - Parties and premises identification
-- Legal description and non-real-property items
-- Lease term, renewal, and rent increase notice
-- Rent, prorations, payment timing, and payment location
-- Late charges and returned check fees
-- Application of funds
-- Security deposit rules, interest handling, refund timing, and statutory notice about last month's rent
-- Utilities responsibility, required services kept on, and service availability notice
-- Use and occupancy limits, guests, and HOA compliance
-- Use restrictions (illegal activity, nuisance, business use, smoking, pool prohibition)
-- Phone number change notice requirement
-- Common area fee disclaimer
-- Lien/encumbrance prohibition
+- Lease term
+- Rent amount, due date, and payment location
+- Security deposit basics (payment, holding, deductions)
+- Utilities responsibility
+- Yard maintenance responsibility
+- Use and occupancy restrictions
+- Repairs and maintenance basics
+- Alterations and improvements require consent
 - Pets policy
-- Maintenance and condition standards
-- Yard maintenance responsibilities and HOA appearance requirement
-- Move-in condition form
-- Repairs, notice procedures, tenant-caused damage, and advance payment for tenant repairs
-- Alterations and improvements
-- Parking and vehicle limits
-- Security devices and rekeying procedures
-- Smoke detector obligations, requests, and battery/light bulb responsibilities
-- Landlord access, for sale/for lease signs, keybox authorization/withdrawal, and trip charges
-- Delivery of possession, move-in timing, and delay remedies
-- Loss, liability, and renter's insurance recommendation
-- Indemnification
-- Casualty loss or condemnation terms
-- Default, remedies, and mitigation
-- Surrender, abandoned property handling, and holdover terms
-- Normal wear and tear definition
-- Landlord's lien and seizure rights
-- Assignment and subletting
-- Early termination rights (military or family violence)
-- Termination in event of sale
-- Attorney's fees
-- Representations and misrepresentation default
-- Notices and communication methods
-- Notice to vacate signed by all tenants
-- Subordination to liens, encumbrances, and restrictive covenants
-- Entire agreement, severability, and no waiver
-- Joint and several liability
-- Addenda and disclosures
-- Additional terms (leak reporting, utilities disconnection violation, roof/attic prohibition, lockout charges, HVAC filter neglect charges)
-- Signed copy acknowledgment
-- Information notices (credit reporting, tenant death, sex offender database, broker lien disclaimer)
+- Default and remedies
 - Governing law
-- Signatures and execution
+- Entire agreement and written modifications
 
 B) Topics handled in `docs/residential_lease_agreement_max_becca.md` only
 - Room reservation for specific individuals

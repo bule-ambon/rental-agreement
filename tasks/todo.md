@@ -144,3 +144,10 @@ Summary: Rewrote `drafts/considerations.md` after rerunning the iterative prompt
 - [x] Append activity log entry and mark plan items complete with a brief summary.
 
 Summary: Added remaining Tayloe-only topics to `drafts/agreement.md` (pest control, yard failure remedies, advance payment language, smoke detector placement note, personal property procedures, addenda list detail, and TAR copyright notice) and logged the work.
+
+## Current Plan
+- [x] Review `tasks/iterative_prompt.md` and confirm inputs (draft + sample markdowns + add/leave-out lists).
+- [x] Rewrite `drafts/considerations.md` per the iterative prompt categories.
+- [x] Append activity log entry and mark plan items complete with a brief summary.
+
+Summary: Rewrote `drafts/considerations.md` per the iterative prompt and logged the activity.
