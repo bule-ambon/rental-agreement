@@ -98,6 +98,13 @@ Summary: Added Osborne-derived clauses to `drafts/agreement.md` and logged the u
 Summary: Updated `drafts/considerations.md` after rerunning the iterative prompt and logged the activity.
 
 ## Current Plan
+- [x] Create `drafts/leave_out.md` and `drafts/add_in.md` with the requested lists.
+- [x] Update `tasks/iterative_prompt.md` to include comparisons against `drafts/leave_out.md` and `drafts/add_in.md`.
+- [x] Append activity log entry and mark plan items complete with a brief summary.
+
+Summary: Added `drafts/leave_out.md`, `drafts/add_in.md`, and updated the iterative prompt to compare against them.
+
+## Current Plan
 - [x] Review remaining Part D items in `drafts/considerations.md` against `docs/tayloe_house_lease.md`.
 - [x] Integrate the remaining Part D topics into `drafts/agreement.md` with matching tone.
 - [x] Append activity log entry and mark plan items complete with a brief summary.

@@ -53,3 +53,6 @@
 ## 2026-01-13 18:34:47 UTC
 - User request: "do the iterative prompt now."
 - Actions: Re-ran the iterative prompt and updated `drafts/considerations.md` to reflect the latest draft coverage.
+## 2026-01-13 18:38:42 UTC
+- User request: "now in drafts adde leave_out.md which is a list of things that might be in the other agreements but that I don't want to put in agreement.md. next, add another file called add_in.md which is a list of things that might not be in the other examples but that I want in agreement.md. after doing this update the iterative_prompt to include the comparisons to these documents as well."
+- Actions: Added `drafts/leave_out.md` and `drafts/add_in.md` templates and updated `tasks/iterative_prompt.md` to include comparisons against them.
