@@ -13,3 +13,10 @@ Summary: Added a checkbox plan and activity log entry per AGENTS.md.
 - [x] Append activity log entry and update this plan with completion checks and summary.
 
 Summary: Drafted `drafts/agreement.md` and `drafts/considerations.md` based on the sample agreements, and logged the work.
+
+## Current Plan
+- [x] Re-review Osborne and Tayloe sample agreements and categorize missing topics as Osborne-only, Tayloe-only, or both.
+- [x] Update `drafts/considerations.md` with the categorized lists.
+- [x] Append activity log entry and mark plan items complete with a brief summary.
+
+Summary: Reorganized `drafts/considerations.md` into shared, Osborne-only, and Tayloe-only topics and logged the update.
