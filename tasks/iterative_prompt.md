@@ -17,19 +17,16 @@ You are an AI coding assistant. Review the current lease draft and compare it ag
 ## Required output format
 Rewrite `drafts/considerations.md` by replacing its contents with the following sections and bullet lists:
 
-A) Topics handled in `drafts/agreement.md` AND all three sample agreements
+A) Topics handled in `drafts/agreement.md` 
 - ...
 
-B) Topics handled in `drafts/agreement.md` only
+B) Topics handled in `docs/residential_lease_agreement_max_becca.md` only
 - ...
 
-C) Topics handled in `docs/residential_lease_agreement_max_becca.md` only
+C) Topics handled in `docs/osborne_properties_lease_template.md` only
 - ...
 
-D) Topics handled in `docs/osborne_properties_lease_template.md` only
-- ...
-
-E) Topics handled in the "sulawesi house" agreement only (`docs/tayloe_house_lease.md`)
+D) Topics handled in the "sulawesi house" agreement only (`docs/tayloe_house_lease.md`)
 - ...
 
 ## Notes
