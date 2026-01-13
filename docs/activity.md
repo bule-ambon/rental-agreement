@@ -32,3 +32,6 @@
 ## 2026-01-13 17:44:36 UTC
 - User request: "read iterative_prompt.md and follow the directions."
 - Actions: Compared `drafts/agreement.md` to the three markdown sample leases and rewrote `drafts/considerations.md` per the iterative prompt categories.
+## 2026-01-13 17:51:24 UTC
+- User request: "In the considerations document, I want topics that are handled in the Sulawesi house agreement (Section D to be incorporated into agreement.md, integrated with the existing term in a sensible order. Don't just take the terms straight out of considerations.md. Use the topics identified in considerations.md to find the corresponding language in tayloe_house_lease.md and then for each of those topics, draft those terms into agreement.md but in the language and tone of agreement.md"
+- Actions: Incorporated the Section D (Sulawesi house) topics into `drafts/agreement.md` using Tayloe language as guidance and matching the draft's tone.

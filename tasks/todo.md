@@ -68,3 +68,10 @@ Summary: Rewrote `drafts/considerations.md` per the iterative prompt and logged 
 - [x] Append activity log entry and mark plan items complete with a brief summary.
 
 Summary: Rewrote `drafts/considerations.md` per the iterative prompt and logged the activity.
+
+## Current Plan
+- [x] Review `drafts/considerations.md`, `docs/tayloe_house_lease.md`, and `drafts/agreement.md` to map Section D topics to draft sections.
+- [x] Integrate the Sulawesi house topics into `drafts/agreement.md` in a sensible order and matching tone.
+- [x] Append activity log entry and mark plan items complete with a brief summary.
+
+Summary: Integrated the Sulawesi house topics into `drafts/agreement.md` and logged the changes.
